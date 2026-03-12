@@ -1,7 +1,7 @@
 # Hi, I'm Parisa Mavaddat 👋
 
 🎓 Master of Science in Data Science student at Northwestern University
-📍 Irvine, California
+📍 Orange County, California
 💻 Python | SQL | Data Analysis | Data Engineering | Machine Learning
 
 I am currently studying data science and building practical experience through hands-on projects involving data analysis, visualization, and real-world datasets. My work focuses on exploring data, identifying patterns, and developing analytical solutions using Python and modern data tools.
